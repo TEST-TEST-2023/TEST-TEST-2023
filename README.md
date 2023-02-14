@@ -4,10 +4,9 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Student;Full-Stack+Software+Engineer;Always+Learning+New+Things;Lifelong+Learner" alt="Typing SVG" /></a>
 </p>
-<h2>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
- About me 
-</h2> <br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
+<br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 300px></picture>
 
 -  I am a `Junior` at [Faculty of Computer Science & Artificial Intelligence]
