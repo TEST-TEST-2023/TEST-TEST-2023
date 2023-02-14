@@ -8,7 +8,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
  About me 
 </h2> <br>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 300px></picture>
 
 -  I am a `Junior` at [Faculty of Computer Science & Artificial Intelligence]
 -  I love using Software as a solution for every `Problem`.
