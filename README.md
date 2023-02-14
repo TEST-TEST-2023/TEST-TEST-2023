@@ -17,7 +17,9 @@
 -  I’m currently learning `Computer Science` and `Software Engineering`.
 -  Always `learning new things`.
 -  I’m currently open for `an Intern` or a new `job opportunity`
-<br>
+
+
+
 
 ## <picture> <img src="https://github.com/TEST-TEST-2023/TEST-TEST-2023/blob/main/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
