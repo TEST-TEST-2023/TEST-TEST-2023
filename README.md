@@ -17,9 +17,8 @@
 -  I’m currently learning `Computer Science` and `Software Engineering`.
 -  Always `learning new things`.
 -  I’m currently open for `an Intern` or a new `job opportunity`
-
-
 <br>
+
 ## <picture> <img src="https://github.com/TEST-TEST-2023/TEST-TEST-2023/blob/main/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:ahmedmedhat5210@Gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -30,7 +29,7 @@
 </p>
 
 
-<br>
+
 ## 🛠️ Programming languages and Tools : 
 <p align="center"> 
   &emsp; 
@@ -69,7 +68,7 @@
 </p>
 
 
-<br>
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 <p align="center">
   &emsp;
